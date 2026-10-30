@@ -147,7 +147,7 @@ export function QuoteDialog({ open, onOpenChange }: QuoteDialogProps) {
                 <FormItem>
                   <FormLabel className="text-xs font-bold text-slate-700">Company / Organization (Optional)</FormLabel>
                   <FormControl>
-                    <Input placeholder="e.g. Addis Flow, Beta-gas" {...field} />
+                    <Input placeholder="e.g. Addis Flow, Betegna.net" {...field} />
                   </FormControl>
                   <FormMessage />
                 </FormItem>

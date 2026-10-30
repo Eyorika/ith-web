@@ -24,11 +24,11 @@ const testimonials = [
     tag: "Cloud Platform"
   },
   {
-    quote: "Their business-first approach transformed how we rent and track our machinery. Uptime has been solid, and payments are seamless.",
-    author: "Operations Director, Beta-gas",
-    role: "Equipment Fleet Management",
+    quote: "Betegna.net needed a fast, reliable platform that handled localized search and verified owner listings gracefully. ITH delivered an exceptional user experience that our renters and landlords love.",
+    author: "Product Lead, Betegna.net",
+    role: "Room & Property Rental Marketplace",
     rating: 5,
-    tag: "Machinery SaaS"
+    tag: "PropTech Platform"
   }
 ];
 

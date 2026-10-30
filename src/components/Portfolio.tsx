@@ -15,24 +15,24 @@ const featuredProjects = [
     details: "A comprehensive enterprise operations platform designed for automated client management, analytics ingestion, billing workflows, and role-based access control."
   },
   {
-    id: "beta-gas",
-    title: "Beta-gas - Rental Platform",
-    category: "SaaS Platform",
-    description: "A modern car & machine rental platform built for swift and ease payments.",
-    image: "/ith-imgs/mandela education academy website.png",
-    fallbackImage: "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=800&q=80",
-    tags: ["Web App", "SaaS", "Supabase"],
-    details: "High-performance booking, fleet telemetry, automated lease contracts, and real-time payment gateway integration built for equipment and vehicle fleet owners."
+    id: "betegna",
+    title: "Betegna.net - Rental Platform",
+    category: "PropTech & Rental Marketplace",
+    description: "Ethiopia's room and home rental platform with verified owners and natural AI search.",
+    image: "/ith-imgs/betegna.jpg",
+    fallbackImage: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80",
+    tags: ["Web App", "PropTech", "AI Search"],
+    details: "Built for the Ethiopian housing and rental ecosystem. Betegna.net connects tenants with affordable, verified room and home rentals across Addis Ababa (Bole, Lideta, Kolfe Keranio). Features natural AI search, verified property owner badges, multilingual support (Amharic & English), and seamless booking inquiries."
   },
   {
-    id: "hotel-booking",
-    title: "Hotel Booking Platform (Concept)",
-    category: "Reservation System",
-    description: "Omnichannel reservation system for hotels and resorts.",
-    image: "/ith-imgs/furniture showroom web.png",
+    id: "kereyu-hill-resort",
+    title: "Kereyu Hill Resort",
+    category: "Hospitality & Booking",
+    description: "Luxury hillside resort booking platform with direct reservations, real-time room availability, and ETB rates in Adama.",
+    image: "/ith-imgs/kereyu-hill-resort.jpg",
     fallbackImage: "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
-    tags: ["Web App", "UI/UX", "Strapi"],
-    details: "An elegant, lightning-fast guest reservation engine featuring real-time room availability, calendar booking synchronization, multi-currency support, and guest concierge portal."
+    tags: ["Web App", "Hospitality", "Booking Engine"],
+    details: "Direct reservation and guest management platform built for Kereyu Hill Resort in Aba Geda Hills, Adama (Nazret), Ethiopia. Features real-time room & suite availability (Hillside Deluxe King, suites), direct reservation request workflows with date selection, transparent ETB pricing, amenities & dining showcases, and an administrative reservation portal."
   }
 ];
 
